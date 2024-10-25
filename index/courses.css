@@ -1,0 +1,547 @@
+.mainnav{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 20px;
+    position: sticky;
+    z-index: 1020;
+
+}
+.hr1{
+    margin-top:22px;
+}
+.logo{
+    color: #06BBCC ;
+    margin-top: -8px;
+    font-weight: 800;
+    font-family: "Nunito", sans-serif;
+    line-height: 1.2;
+    
+}
+#id1{
+    color: #06BBCC;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+
+.two{
+    color: black;
+    font-weight:800;
+    text-decoration: none;
+}
+.btn1{
+    color: white;
+    height: 60px;
+    width: 160px;
+    background-color: #06BBCC;
+    margin-top: -22px;
+    font-weight:800;
+    border: none;
+}
+.btn1:hover{
+    cursor: pointer;
+}
+.hr2{
+    margin-top:0px;
+}
+.imageoverlay2{
+    background-image: url("graduategirl.jpg");
+    background-size: cover;
+    width: 98.5vw;
+    height: 80vh;
+    margin-top: -5%;
+ }
+ .imageoverlay3{
+    background-color: rgba(0, 0, 0, 0.714);
+    opacity: 0.7;
+    width: 98.5vw;
+    height: 80vh;
+ }
+ .l11{
+    color: white;
+    font-size: 5rem;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 15%;
+ }
+ .l12{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: -4%;
+ }
+ .title1{
+    color: #06BBCC;
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    margin-top: 10%;
+    text-align: center;
+ }
+ .line1{
+    color: #06BBCC;
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    margin-left: 42%;
+    margin-top: -3%;
+ }
+ .line2{
+    color: #06BBCC;
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    margin-left: 39%;
+    margin-top: -1.5%;
+ }
+ .line3{
+    color: #06BBCC;
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    margin-left: 54%;
+    margin-top: -3.2%;
+ }
+ .line4{
+    color: #06BBCC;
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    margin-left: 54%;
+    margin-top: -1.5%;
+ }
+ .tag1{
+    font-weight: 900;
+    font-family: "Nunito",sans-serif;
+    color:black;
+    text-align: center;
+    font-size: 4rem;
+    margin-top: -1%;
+ 
+   }
+   .third1{
+    width: 80rem;
+     height: 30rem;
+     margin-left: 8%;
+   }
+   .container1{
+    background-color:white;
+    position: absolute;
+    height: 70px;
+    width: 140px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 82.5%;
+    margin-top: -5%;
+   }
+   .one1{
+    font-size: 20px;
+    margin-top:4%;
+    color: black;
+ }
+ .two1{
+    margin-top: -17%;
+    color:#06BBCC;
+ } 
+ .third2{
+    width: 40vw;
+    height: 50vh;
+    margin-left: 8%;
+    margin-top: 3%;
+ }
+ .container2{
+    background-color:white;
+    position: absolute;
+    height: 70px;
+    width: 180px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 36%;
+    margin-top: -5%;
+ 
+ }
+ .one2{
+    margin-top: 5%;
+    font-size: 20px;
+   color: black;
+ }
+ .two2{
+    margin-top: -17%;
+    color:#06BBCC;
+ }
+ .third3{
+    width: 40vw;
+    margin-left: 52%;
+    margin-top:-49rem ;
+    height: 50vh;
+ 
+ }
+ .container3{
+    background-color:white;
+    position: absolute;
+    margin-top: -5%;
+    height: 70px;
+    width: 180px;
+    margin-left: 80%;
+    text-align: center;
+    cursor: pointer;
+ 
+ }
+ .one3{
+    font-size: 20px;
+    margin-top:4%;
+    color: black;
+ }
+ .two3{
+    margin-top: -17%;
+    color: #06BBCC;
+ }
+ .tag2{
+    font-size: 1rem;
+    color: #06BBCC;
+    font-weight: 700;
+    font-family: "Nunito",sans-serif;
+    margin-top: 8%;
+    text-align: center;
+ }
+ .line5{
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    color: #06BBCC;
+    margin-left: 43%;
+     margin-top: -3%;
+    
+   
+ }
+ .line6{
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    color: #06BBCC;
+    margin-left: 40%;
+    margin-top: -1.5%;
+    
+    
+ }
+ .line7{
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    color: #06BBCC;
+    margin-left: 53%;
+    margin-top: -3%;
+    
+ }
+ .line8{
+    font-family: "Nunito",sans-serif;
+    font-weight: 700;
+    color: #06BBCC;
+    margin-left: 53%;
+    margin-top: -1.5%;
+    
+ }
+ .tag3{
+    color: black;
+   font-family: "Nunito",sans-serif;
+   font-weight: 800;
+   font-size: 300%;
+   text-align: center;
+ }
+.course1{
+        width:30vw;
+        height: 20rem;
+     
+ }
+ .read1{
+    background-color: #06BBCC;
+    border-radius: 30px 0 0 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 30px;
+    width: 5rem;
+    text-align:right;
+    height: 1.5rem;
+    margin-top: -5rem;
+    position: absolute;
+    margin-left: 6rem;
+    padding: .25rem .5rem;
+     padding-top: 0.25rem;
+     padding-right: 0.5rem;
+     padding-bottom: 0.25rem;
+     border-right: solid 1px white;
+     }
+     .read2{
+        background-color: #06BBCC;
+        border-radius: 0px 30px 30px 0px;
+         border-top-left-radius: 0px;
+         border-top-right-radius: 30px;
+         border-bottom-right-radius: 30px;
+         border-bottom-left-radius: 0px;
+           width: 5rem;
+           text-align:left;
+           height: 1.5rem;
+           margin-top: -5rem;
+           position: absolute;
+           margin-left: 12rem;
+           padding: .25rem .5rem;
+         padding-top: 0.25rem;
+         padding-right: 0.5rem;
+         border-left: solid 1px white;
+         padding-bottom: 0.25rem;
+      }
+      .read1:hover{
+        cursor: pointer;
+     }
+     .read2:hover{
+        cursor: pointer;
+     }
+     .tag4{
+        color: white;
+        text-decoration: none;
+        font-weight: 700;
+     }
+     .tag5{
+        color: white;
+        text-decoration: none;
+        font-weight: 700;
+     }
+     .subcontainer1{
+        background-color: #c7eef1db;
+        width: 30vw;
+        height: 35rem;
+        
+     }    
+     .container{
+        margin-top: 8%;
+        display: flex;
+        justify-content: space-between;
+     } 
+     .price1{
+        color: black;
+        font-size: 250%;
+        font-weight: 700;
+        text-align: center;
+        font-family: "Nunito",sans-serif;
+     
+     }
+     .star1{
+        display: flex;
+        margin-left: 9rem;
+        margin-top: -1rem;
+        width: 1rem;
+        height: 1rem;
+     }
+     .tag6{
+        color: rgba(0, 0, 0, 0.523);
+        margin-top: -1rem;
+        margin-left: 14rem;
+        font-family: "Nunito",sans-serif;
+     }
+     .tag7{
+        color: black;
+        font-family: "Nunito",sans-serif;
+        font-weight: 600;
+        text-align: center;
+        font-size: 2rem;
+     }
+     .user{
+        display: flex;
+        justify-content: space-around;
+     
+        
+     }
+     .user1{
+        width: 1rem;
+        height: 1rem;
+        margin-left: -2%;
+        margin-top: -1%;
+     }
+     .tag8{
+        color: rgba(0, 0, 0, 0.725);
+        margin-top:-1%;
+        margin-left:-4%;
+     }
+     .user2{
+        width: 1rem;
+        height: 1rem;
+        margin-top:-1%;
+        margin-left: 0.5rem;
+     }
+     .tag9{
+        color: rgba(0, 0, 0, 0.725);
+        margin-top: -1%;
+        margin-left: -4%;
+     }
+     .user3{
+        width: 1rem;
+        height: 1rem;
+        margin-top: -1%;
+        margin-left: 0.5rem;
+     }
+     .tag10{
+        color: rgba(0, 0, 0, 0.725);
+        margin-top:  -1%;
+        margin-left: -0.8rem;
+     }
+     .footer1{
+        background-color:  #181d38;
+        width: 98.5vw;
+        height: 70vh;
+        justify-content: space-between;
+        margin-top: 20%;
+        display: flex;
+       
+       } 
+       .l1{
+        color: white;
+        font-weight:600;
+        font-size: 2rem;
+        font-family: "Nunito",sans-serif;
+        padding-top:5rem;
+        padding-left:5rem;
+    }
+    .l2{
+        color: white;
+        padding-left: 5rem;
+        line-height: 200%;
+        font-size: 1rem;
+     }
+     .l2:hover{
+        cursor: pointer;
+     }
+     .image6{
+        width: 2vw;
+        height: 1h;
+        
+     }     
+     .l3{
+        color: white;
+        font-size: 2rem;
+        font-weight: 700;
+        font-family: "Nunito",sans-serif;
+        padding-top: 5rem;
+     
+     }
+     .l4{
+        color: white;
+        font-size: 1rem;
+        margin-left: 3rem;
+        margin-top: -1.5rem;
+     }
+     .image7{
+        width: 2vw;
+        height: 1h;
+        margin-top: 1rem;
+     
+     }
+     .l5{
+        color: white;
+        font-size: 1rem;
+        margin-left: 3rem;
+        margin-top: -2rem;
+     
+     }
+     .image8{
+        width: 2.5vw;
+        height: 2h;
+        margin-top: 1rem;
+     
+     }
+     .l6{
+        color: white;
+        font-size: 1rem;
+        margin-left: 3rem;
+        margin-top: -2rem;
+     }
+     .l7{
+        color: white;
+        font-size: 2rem;
+        padding-top: 5rem;
+        font-weight: 700;
+        font-family: "Nunito",sans-serif;
+     }
+     .img01{
+        width: 6vw;
+        height: 8vh;
+        border: solid 4px white;
+       
+     }
+     .l8{
+        color: white;
+        font-size: 2rem;
+        font-weight: 700;
+        font-family: "Nunito",sans-serif;
+        padding-top: 5rem;
+     }
+     .l9{
+        color: white;
+        font-size: 1rem;
+        width: 70%;
+     
+     }
+     .email{
+        width: 15vw;
+        height: 5vh;
+     }
+     .sign{
+        background-color: #06BBCC;
+        color: white;
+      height: 3vh;
+        width:5vw;
+        text-align: center;
+       margin-top: -2.6%;
+        position: absolute;
+        margin-left: 10%;
+        padding-top: 1%;
+        
+     }
+     .sign:hover{
+        cursor: pointer;
+     }
+     .last1{
+        background-color:  #181d38;
+        width: 98.6vw;
+        height: 10vh;
+        margin-top: -4%;
+     }
+     .hr3{
+        color: grey;
+        font-size: 1px;
+     
+     }
+     .l08{
+        color: white;
+        padding-left: 5%;
+        font-size: 1rem;
+     }
+     .last2{
+        color: white;
+        margin-left: 75%;
+        margin-top: -1.5%;
+     }
+     .last3{
+        color: white;
+        margin-left: 79%;
+        margin-top: -2.2%;
+        }
+        .last4{
+           color: white;
+           margin-left: 81%;
+           margin-top: -2.3%;
+     }
+     .last5{
+        color: white;
+        margin-left: 86%;
+        margin-top: -2.3%;
+     
+     }
+     .last6{
+        color: white;
+        margin-left: 88%;
+        margin-top: -2.3%;
+     }
+     .last7{
+        color: white;
+        margin-left: 92%;
+        margin-top: -2.3%;
+     
+     }
+     .last8{
+        color: white;
+        margin-left: 94%;
+        margin-top: -2.3%;
+     }
